@@ -1,4 +1,4 @@
-FROM nginx:1.21.0-alpine
+FROM nginx:1.21.1-alpine
 
 LABEL maintainer="whalehub (admin@datahoarder.dev)"
 
